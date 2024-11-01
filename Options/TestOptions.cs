@@ -31,4 +31,9 @@ public class TestOptions
     /// this is short option
     /// </summary>
     public short? ShortOption { get; set; }
+
+    /// <summary>
+    /// this is long option
+    /// </summary>
+    public long? LongOption { get; set; }
 }
