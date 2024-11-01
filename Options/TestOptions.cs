@@ -21,4 +21,9 @@ public class TestOptions
     /// this is decimal option
     /// </summary>
     public decimal? DecimalOption { get; set; }
+
+    /// <summary>
+    /// this is float option
+    /// </summary>
+    public float? FloatOption { get; set; }
 }
