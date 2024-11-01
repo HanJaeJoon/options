@@ -26,4 +26,9 @@ public class TestOptions
     /// this is float option
     /// </summary>
     public float? FloatOption { get; set; }
+
+    /// <summary>
+    /// this is short option
+    /// </summary>
+    public short? ShortOption { get; set; }
 }
