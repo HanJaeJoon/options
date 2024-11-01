@@ -15,5 +15,10 @@ public class TestOptions
     /// <summary>
     /// this is boolean option
     /// </summary>
-    public bool? AnotherOption { get; set; }
+    public bool? BoolOption { get; set; }
+
+    /// <summary>
+    /// this is decimal option
+    /// </summary>
+    public decimal? DecimalOption { get; set; }
 }
