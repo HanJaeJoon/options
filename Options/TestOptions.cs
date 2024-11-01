@@ -2,5 +2,5 @@
 
 public class TestOptions
 {
-    public string? OldOption1 { get; set; }
+    public string? NewOption1 { get; set; }
 }
