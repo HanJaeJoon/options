@@ -2,6 +2,7 @@
 
 public class TestOptions
 {
-    public string? NewOption2 { get; set; }
+    public string? StringOption { get; set; }
+    public int? IntOption { get; set; }
     public bool? AnotherOption { get; set; }
 }
