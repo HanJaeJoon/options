@@ -30,5 +30,5 @@ public class TestOptions
     /// <summary>
     /// this is short option
     /// </summary>
-    public short? ShortOption { get; set; }
+    public short? ShortOptionChanged { get; set; }
 }
