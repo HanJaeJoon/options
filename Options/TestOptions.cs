@@ -5,7 +5,7 @@ public class TestOptions
     /// <summary>
     /// this is boolean option
     /// </summary>
-    public bool? BoolOption { get; set; }
+    public bool? ThisIsBoolOption { get; set; }
 
     /// <summary>
     /// this is string option
