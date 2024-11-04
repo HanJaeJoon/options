@@ -36,4 +36,9 @@ public class TestOptions
     /// this is long option
     /// </summary>
     public long? LongOption { get; set; }
+
+    /// <summary>
+    /// this is timespan option
+    /// </summary>
+    public TimeSpan? TimespanOption { get; set; }
 }
