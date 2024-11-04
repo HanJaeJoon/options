@@ -41,4 +41,9 @@ public class TestOptions
     /// this is timespan option
     /// </summary>
     public TimeSpan? TimespanOption { get; set; }
+
+    /// <summary>
+    /// this is datetime option
+    /// </summary>
+    public DateTime? DateTimeOption { get; set; }
 }
