@@ -3,6 +3,11 @@
 public class TestOptions
 {
     /// <summary>
+    /// this is boolean option
+    /// </summary>
+    public bool? BoolOption { get; set; }
+
+    /// <summary>
     /// this is string option
     /// </summary>
     public string? StringOption { get; set; }
@@ -11,11 +16,6 @@ public class TestOptions
     /// this is int option
     /// </summary>
     public int? IntOption { get; set; }
-
-    /// <summary>
-    /// this is boolean option
-    /// </summary>
-    public bool? BoolOption { get; set; }
 
     /// <summary>
     /// this is decimal option
